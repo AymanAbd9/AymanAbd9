@@ -8,7 +8,7 @@
 
 ### 🤖 About Me
 
-- 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
+- 🎓 Pursuing a Master’s degree focused on **AI** and **Machine Learning**  
 - 🧠 Fascinated by how machines learn and how we can teach them to understand patterns and make decisions
 - 💬 Open to collaborating on AI/ML projects, sharing knowledge, and learning from others  
 - 🚀 Continuously improving my skills through real-world experiments, research, and side projects
