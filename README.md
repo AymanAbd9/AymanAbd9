@@ -6,7 +6,7 @@
 
 ---
 
-### 🧠 About Me
+### 🤖 About Me
 
 - 🎓 I'm passionate about **Artificial Intelligence**, **Machine Learning**, and **Deep Learning**
 - 🧠 Fascinated by how machines learn and how we can teach them to understand patterns and make decisions
