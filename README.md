@@ -48,7 +48,7 @@
 - 🔬 [**COVID Detection using CNNs**](https://github.com/AymanAbd9/chest-xray-covid-classification-gradcam)  
   *Built a convolutional neural network to detect COVID-19 from chest X-rays using Grad-CAM for model explainability.*
 
-- 📊 [**Customer Churn Prediction**](https://github.com/AymanAbd9/Tree-Based-Models-for-Customer-Churn-Analysis)
+- 📊 [**Customer Churn Prediction**](https://github.com/AymanAbd9/Tree-Based-Models-for-Customer-Churn-Analysis)  
   *Applied decision trees, random forests, and XGBoost to predict and analyze customer churn.*
 
 ---
