@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ayman – Exploring AI, ML, and Deep Learning</h1>
+<h1 align="center">ello world, I’m Ayman</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00FFB0&center=true&vCenter=true&width=435&lines=AI+Enthusiast;Deep+Learning+Explorer;Turning+Data+into+Decisions" />
